@@ -2,7 +2,7 @@ title = "Haconby Action Group"
 description = "Because rural lives matter. Our lives matter"
 
 # The URL the site will be built for
-base_url = "https://example.com"
+base_url = "/"
 
 
 # Theme
