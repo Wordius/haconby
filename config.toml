@@ -6,10 +6,13 @@ base_url = "https://example.com"
 
 
 # Theme
-theme = "hyde"
+# theme = "hyde"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
+
+### RSS feeds
+generate_feed = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
@@ -30,3 +33,6 @@ hyde_links = [
     {url = "/contact", name = "Contact"},
     {url = "/links", name = "Links"},
 ]
+
+hyde_sticky = true
+hyde_reverse = false
