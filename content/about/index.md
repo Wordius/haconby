@@ -1,15 +1,14 @@
 +++
 title = "About"
-date = "2025-07-10"
-page_template = "page-core.html"
+date = 2025-07-15
+page_template = "page.html"
+insert_anchor_links = "true"
 +++
 
-Haconby Action Group was formed in July 2025. 
+No to Pylons (Nopy) was set up to provide a source of news and information about the proposed plyons that affect Haconby and surrounding villages. Its aim is to assist you in opposing National Grid’s work on the Weston Marsh to East Leicestershire extension in particular, as it affects Haconby. This site also gives you access to files that may be of use to you, such as the [Letter of Objection](/resources), which has been made available for download. 
 
-The aim of this website is to keep you, the residents of Haconby and Stainfield, informed.
+## Haconby & Stainfield Pylon Action Group
 
-The group’s mission:
+Haconby & Stainfield’s Pylon Action Group is in the process of being set up. You can join the group and find out what news they have on Facebook. For anyone who doesn’t ‘do Facebook’, there’s alway this site. 
 
-- to stop National Grid from defacing the stretch of Lincolnshire countryside from Spalding to Leicestershire in order to transmit its power, which originates in Scotland, to the south of England.
-- to make National Grid rethink its proposals.
-
+[Join the group](https://www.facebook.com/groups/1400754671211902).

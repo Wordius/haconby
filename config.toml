@@ -1,40 +1,42 @@
-title = "Haconby Action Group"
-description = "Because rural lives matter, pylons’ lives don’t"
+title = "No to pylons"
+description = "Rural lives matter…"
 
 # The URL the site will be built for
 base_url = "/"
 
-
-# Theme
-# theme = "hyde"
-
 # Whether to automatically compile all Sass files in the sass directory
+
 compile_sass = false
 
 # feeds
-# generate_feeds = true
-# feed_filenames = ["rss.xml"]
 
+# generate_feeds = true
+# feed_filenames = ["rss.xml", "atom.xml"]
 
 # Whether to build a search index to be used later on by a JavaScript library
+
 build_search_index = true
 
 [markdown]
+
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
 
+# This determines whether to insert a link for each header like the ones you can see on this site if you hover over a header. The default template can be overridden by creating an `anchor-link.html` file in the `templates` directory.
+# This value can be "left", "right", "heading" or "none".
+# "heading" means the full heading becomes the text of the anchor.
+# See "Internal links & deep linking" in the documentation for more information.
+
+insert_anchor_links = "true"
+
 [extra]
 # Put all your custom variables here
 
-# Theme colours: 0b is green
-hyde_theme = "theme-base-O9"
-
 hyde_links = [
+    {url = "/", name = "News"},
     {url = "/about", name = "About"},
     {url = "/contact", name = "Contact"},
     {url = "/links", name = "Links"},
+    {url = "/resources", name = "Resources"},
 ]
-
-hyde_sticky = true
-hyde_reverse = false

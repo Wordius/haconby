@@ -1,0 +1,75 @@
+@font-face {
+    font-family: abrilfatface;
+    src: url('/fonts/AbrilFatface-Regular.ttf') format('woff2'),
+         url('/fonts/AbrilFatface-Regular.ttf') format('woff');
+     font-style: normal;
+  }
+  
+@font-face {
+    font-family: Lato;
+    src: url('/fonts/Lato-Regular.ttf') format('woff2'),
+         url('/fonts/Lato-Regular.ttf') format('woff');
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: Lato;
+    src: url('/fonts/Lato-Italic.ttf') format('woff2'),
+         url('/fonts/Lato-Italic.ttf') format('woff');
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: Lato;
+    src: url('/fonts/Lato-bold.ttf') format('woff2'),
+         url('/fonts/Lato-bold.ttf') format('woff');
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  @font-face {
+    font-family: Lato;
+    src: url('/fonts/Lato-bolditalic.ttf') format('woff2'),
+         url('/fonts/Lato-bolditalic.ttf') format('woff');
+    font-weight: 700;
+    font-style: italic;
+  }
+
+  @font-face {
+    font-family: Lato;
+  src: url('/fonts/Lato-black.ttf') format('woff2'),
+       url('/fonts/Lato-black.ttf') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+    font-family: Lora;
+    src: url('/fonts/lora-Regular.ttf') format('woff2'),
+         url('/fonts/lora-Regular.ttf') format('woff');
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: Lora;
+    src: url('/fonts/Lora-Italic.ttf') format('woff2'),
+         url('/fonts/Lora-Italic.ttf') format('woff');
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: Lora;
+    src: url('/fonts/Lora-bold.ttf') format('woff2'),
+         url('/fonts/Lora-bold.ttf') format('woff');
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  @font-face {
+    font-family: Lora;
+    src: url('/fonts/Lora-bolditalic.ttf') format('woff2'),
+         url('/fonts/Lora-bolditalic.ttf') format('woff');
+    font-weight: 700;
+    font-style: italic;
+  }
+
+

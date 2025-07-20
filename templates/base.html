@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+    <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <!-- Enable responsiveness on mobile devices-->
+    <!-- viewport-fit=cover is to support iPhone X rounded corners and notch in landscape-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, viewport-fit=cover">
+    <meta name="description" content="Why rural lives matter in Haconby, Lincolnshire">
+
+    <title>
+        {% block title %}
+            {{ config.title }}
+        {% endblock title %}
+    </title>
+
+      <!-- CSS -->
+      <link rel="stylesheet" href="/style.css">
+
+      <!--<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">-->
+
+      {% if config.generate_feed %}
+        <link rel="alternate" type={% if config.feed_filename == "rss.xml" %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="RSS" href="{{ get_url(path=config.feed_filename) | safe }}">
+      {% endif %}
+
+    </head>
+
+    <body>
+
+    <div id="wrapper">
+
+      {% include "partials/aside.html" %}
+
+      <div id="content">
+    
+          {% block content %}
+          {% endblock content %}
+
+      </div><!--content-->
+
+    </div><!--wrapper-->
+
+    </body>
+
+</html>

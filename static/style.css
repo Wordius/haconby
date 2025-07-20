@@ -1,0 +1,179 @@
+@import "layout.css";
+@import "fonts.css";
+
+:root {
+	--font-family-sans: Lato, Helvetica, -apple-system, system-ui, sans-serif;
+	--font-family-serif: Lora, Georgia, robotoslab, robotoslab, serif;
+  --font-family-display: AbrilFatface, georgia, serif;
+}
+
+/*
+ * Global resets: Update the foundational and global aspects of the page.
+ */
+
+html {
+  font-family: var(--font-family-sans);
+  font-size: 10px;
+}
+/*
+ * Aside
+ */
+
+aside {
+    color: rgba(255,255,255,.5);
+    background-color: #ac4142; /* #6a9fb5 */
+}
+
+aside a {
+  color: #fff;
+}
+
+.about h1 {
+  font-family: var(--font-family-display); /*"Abril Fatface", serif;*/
+  font-size: 6rem;
+  line-height: 1.2;
+  color: #fff;
+  margin-top: 0;
+}
+
+.lead {
+    font-size: 3.6rem;
+    line-height: 1.2;
+    margin-top: 1rem;
+}
+
+/* Aside nav */
+.nav {
+  margin-bottom: 1rem;
+}
+.nav-item {
+  font-size: 2rem;
+  display: block;
+  line-height: 1.75;
+}
+a.nav-item:hover,
+a.nav-item:focus {
+  text-decoration: underline;
+}
+.nav-item.active {
+  font-weight: bold;
+}
+ul.nav {
+    padding-inline-start: 0;
+}
+.copyright {
+    font-size: 1.6rem;
+}
+
+.img {
+  display: block;
+  max-width: 100%;
+  margin-top: 2rem;
+}
+.caption {
+  font-size: 1.6rem;
+  margin-top: 0.5rem;
+}
+
+/* Main */
+
+h1 {
+  font-size: 4rem;
+  font-family: var(--font-family-sans);
+  font-weight: 900;
+}
+
+h2 {
+  font-size: 2.6rem;
+  font-weight: 900;
+  margin-top: 2rem;
+  margin-bottom: .5rem;
+  color: #777;
+}
+
+/* Postlist */
+
+ul.postlist {
+  list-style: none;
+}
+h2.postlist-title {
+  font-size: 3rem;
+  font-weight: 700;
+}
+.postlist-date {
+  text-transform: uppercase;
+  font-size: 1.6rem;
+  color: #777;
+}
+.post-description {
+  color: #777;
+}
+.toc {
+  margin-bottom: 3rem;
+}
+.toc > ul li {
+  font-size: 2rem;
+}
+a {
+  color: #ac4142;
+}
+
+.page > p, .page > ul li, .page > ol li {
+  font-size: 2rem; 
+  line-height: 1.7;
+  color: #333;
+}
+  p.page-date {
+    font-size: 1.6rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+    color: #777;
+  }
+
+blockquote {
+  margin: 0;
+  border-left: 3px solid #777;
+  margin-left: 1rem;
+  padding: 1rem;
+  background-color: #DEA8A8;
+}
+blockquote > p, blockquote > ul {
+  font-size: 2rem;
+  line-height: 1.7;
+  margin: 1rem;
+  color: #333;
+  /*margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;*/
+}
+footer {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-top: 1px solid #777;
+  border-bottom: 1px solid #777;
+}
+footer > p {
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #777;
+}
+
+@media all and (max-width: 768px) {
+  aside .nav li {
+    display: inline-block;
+    padding-right: 1rem;
+  }
+  aside .nav li:last-child {
+    padding-right: 0;
+  }  
+  blockquote {
+    margin-left: 0;
+  }
+  .page p, .page ul li, blockquote > p, blockquote > ul {
+    font-size: 1.8rem;
+  }
+}

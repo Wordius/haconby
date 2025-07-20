@@ -1,0 +1,41 @@
+body, html {
+  margin: 0;
+}
+#wrapper { 
+	display: flex;
+	flex-wrap: wrap;
+    flex-direction: row;
+    height: 100vh;
+}
+aside {
+    display: flex;
+    flex-basis: 25rem;
+    position: relative;
+    padding: 2rem 3rem;
+}
+#content {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 0;
+    flex-grow: 999;
+    max-width: 45%;
+    padding: 0 6rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.postlist {
+    padding: 2rem 0;
+}
+
+/* MOBILE - <768px */
+
+@media all and (max-width: 768px) {
+  aside {
+    flex-basis: auto;
+    padding: 1.5rem;
+  }
+  #content {
+    max-width: 100%;
+    padding: 1.5rem;
+  }
+}
