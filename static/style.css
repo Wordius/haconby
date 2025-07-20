@@ -39,7 +39,7 @@ aside a {
 .lead {
     font-size: 3.2rem;
     line-height: 1.2;
-    margin-top: 1rem;
+    margin-top: 0;
 }
 
 /* Aside nav */
@@ -166,6 +166,9 @@ footer > p {
   font-size: 6rem;
   line-height: 1.2;
 }
+  .img {
+    margin-top: 0;
+  }
   aside .nav li {
     display: inline-block;
     padding-right: 1rem;
