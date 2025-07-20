@@ -182,4 +182,7 @@ footer > p {
   .page p, .page ul li, blockquote > p, blockquote > ul {
     font-size: 1.8rem;
   }
+  .page p.page-date {
+    font-size: 1.4rem;
+  }
 }

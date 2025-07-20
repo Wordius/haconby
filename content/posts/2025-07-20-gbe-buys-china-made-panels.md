@@ -23,4 +23,4 @@ And:
 >
 > "GBE will seek to uphold these requirements in its contracting arrangements and are actively engaging with international partners to raise the bar globally on solar supply chain accountability."
 
-What is the point in having modern slavery rules if your own government can’t be trusted to stick to them?
+What is the point of having modern slavery rules if you, the government, can’t be trusted to adhere to them?
