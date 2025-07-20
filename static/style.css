@@ -30,14 +30,14 @@ aside a {
 
 .about h1 {
   font-family: var(--font-family-display); /*"Abril Fatface", serif;*/
-  font-size: 6rem;
+  font-size: 8rem;
   line-height: 1.2;
   color: #fff;
   margin-top: 0;
 }
 
 .lead {
-    font-size: 3.6rem;
+    font-size: 3.2rem;
     line-height: 1.2;
     margin-top: 1rem;
 }
@@ -96,9 +96,13 @@ h2 {
 ul.postlist {
   list-style: none;
 }
+.postlist-item {
+  margin-bottom: 2rem;
+}
 h2.postlist-title {
-  font-size: 3rem;
-  font-weight: 700;
+  font-size: 2.4rem;
+  font-weight: 900;
+  margin-top: .5rem;
 }
 .postlist-date {
   text-transform: uppercase;
@@ -143,17 +147,12 @@ blockquote > p, blockquote > ul {
   line-height: 1.7;
   margin: 1rem;
   color: #333;
-  /*margin-block-start: 0;
-  margin-block-end: 0;
-  margin-inline-start: 0;
-  margin-inline-end: 0;*/
 }
 footer {
   margin-top: 3rem;
   padding-top: 1rem;
   padding-bottom: 1rem;
   border-top: 1px solid #777;
-  border-bottom: 1px solid #777;
 }
 footer > p {
   font-size: 1.4rem;

@@ -1,4 +1,4 @@
-title = "No to pylons"
+title = "Say no to pylons"
 description = "Rural lives matter…"
 
 # The URL the site will be built for
@@ -38,5 +38,4 @@ hyde_links = [
     {url = "/about", name = "About"},
     {url = "/contact", name = "Contact"},
     {url = "/links", name = "Links"},
-    {url = "/resources", name = "Resources"},
 ]

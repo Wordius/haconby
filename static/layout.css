@@ -9,7 +9,7 @@ body, html {
 }
 aside {
     display: flex;
-    flex-basis: 25rem;
+    flex-basis: 24rem;
     position: relative;
     padding: 2rem 3rem;
 }
