@@ -9,7 +9,7 @@ No to Pylons (Nopy) was set up to provide a source of news and information about
 
 As well as having this main goal, it will look at news affecting Lincolnshire as a whole, including wind farms and solar energy projects.
 
-## Haconby & Stainfield Pylon Action Group
+## Facebook group
 
 Haconby & Stainfield’s Pylon Action Group is in the process of being set up. You can join the group and find out what news they have on Facebook. For anyone who doesn’t ‘do Facebook’, there’s alway this site. 
 

@@ -30,7 +30,7 @@ aside a {
 
 .about h1 {
   font-family: var(--font-family-display); /*"Abril Fatface", serif;*/
-  font-size: 8rem;
+  font-size: 6rem;
   line-height: 1.2;
   color: #fff;
   margin-top: 0;
@@ -39,20 +39,28 @@ aside a {
 .lead {
     font-size: 3.2rem;
     line-height: 1.2;
-    margin-top: 0;
+    margin-top: 2rem;
 }
 
 /* Aside nav */
 .nav {
+  margin-top: 3rem;
   margin-bottom: 1rem;
+}
+.nav a {
+  color: #fff;
+  text-decoration: none;
 }
 .nav-item {
   font-size: 2rem;
   display: block;
   line-height: 1.75;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #fff;
 }
-a.nav-item:hover,
-a.nav-item:focus {
+.nav-item a:hover,
+.nav-item a:focus {
   text-decoration: underline;
 }
 .nav-item.active {
@@ -66,9 +74,8 @@ ul.nav {
 }
 
 .img {
-  display: block;
-  max-width: 100%;
-  margin-top: 2rem;
+  width: 100%;
+  margin-top: 1rem;
 }
 .caption {
   font-size: 1.6rem;
@@ -81,11 +88,13 @@ h1 {
   font-size: 4rem;
   font-family: var(--font-family-sans);
   font-weight: 900;
+  line-height: 1.4;
 }
 
 h2 {
   font-size: 2.6rem;
   font-weight: 900;
+  line-height: 1.4;
   margin-top: 2rem;
   margin-bottom: .5rem;
   color: #777;
@@ -95,6 +104,7 @@ h2 {
 
 ul.postlist {
   list-style: none;
+  margin-top: 3rem;
 }
 .postlist-item {
   margin-bottom: 2rem;
@@ -112,16 +122,13 @@ h2.postlist-title {
 .post-description {
   color: #777;
 }
-.toc {
-  margin-bottom: 3rem;
-}
-.toc > ul li {
-  font-size: 2rem;
-}
 a {
   color: #ac4142;
 }
-
+p {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
 .page > p, .page > ul li, .page > ol li {
   font-size: 2rem; 
   line-height: 1.7;
@@ -138,7 +145,7 @@ a {
 blockquote {
   margin: 0;
   border-left: 3px solid #777;
-  margin-left: 1rem;
+  margin-left: 2rem;
   padding: 1rem;
   background-color: #DEA8A8;
 }
@@ -149,6 +156,7 @@ blockquote > p, blockquote > ul {
   color: #333;
 }
 footer {
+  text-align: center;
   margin-top: 3rem;
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -169,20 +177,16 @@ footer > p {
   .img {
     margin-top: 0;
   }
-  aside .nav li {
+  .nav-item {
     display: inline-block;
     padding-right: 1rem;
+    margin-bottom: 0;
+    border-bottom: none;
   }
-  aside .nav li:last-child {
+  .nav li:last-child {
     padding-right: 0;
   }  
   blockquote {
     margin-left: 0;
-  }
-  .page p, .page ul li, blockquote > p, blockquote > ul {
-    font-size: 1.8rem;
-  }
-  .page p.page-date {
-    font-size: 1.4rem;
   }
 }

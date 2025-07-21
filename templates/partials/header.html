@@ -1,0 +1,20 @@
+{% block aside %}
+    <header class="cum_sidebar">
+        <div class="about">
+             <a href="{{ config.base_url }}"><h1>{{ config.title }}</h1></a>
+            {% if config.description %}
+                <p class="lead">{{config.description}}</p>
+            {% endif %}
+        </div> 
+        <ul class="nav">
+            {% for link in config.extra.hyde_links %}
+            <li class="nav-item"><a href="{{link.url}}">{{link.name}}</a></li>
+            {% endfor %}
+        </ul>
+    </header>
+    <!--
+        <div class="rss">
+            <a href="/atom.xml"><img class="rss" src="/img/rss.png" width="28" height="28"></a>
+        </div>        
+    -->
+{% endblock aside %}

@@ -1,4 +1,4 @@
-title = "Say no to pylons"
+title = "No to pylons"
 description = "Rural lives matter…"
 
 # The URL the site will be built for
@@ -11,7 +11,8 @@ compile_sass = false
 # feeds
 
 # generate_feeds = true
-# feed_filenames = ["rss.xml", "atom.xml"]
+
+feed_filenames = ["rss.xml"]
 
 # Whether to build a search index to be used later on by a JavaScript library
 
