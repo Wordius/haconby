@@ -45,7 +45,6 @@ aside a {
 /* Aside nav */
 .nav {
   margin-top: 3rem;
-  margin-bottom: 1rem;
 }
 .nav a {
   color: #fff;
@@ -55,7 +54,7 @@ aside a {
   font-size: 2rem;
   display: block;
   line-height: 1.75;
-  margin-bottom: 1rem;
+  padding-top: 1rem;
   padding-bottom: 1rem;
   border-bottom: 1px solid #fff;
 }
@@ -169,7 +168,7 @@ footer > p {
   color: #777;
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 1200px) {
   .about h1 {
   font-size: 6rem;
   line-height: 1.2;
@@ -180,6 +179,7 @@ footer > p {
   .nav-item {
     display: inline-block;
     padding-right: 1rem;
+    padding-top: 0;
     margin-bottom: 0;
     border-bottom: none;
   }

@@ -7,7 +7,7 @@ insert_anchor_links = "true"
 
 ## Email
 
-If you have something to add or a comment to make you can always send me an [email](mailto:jeffpporter@icloud.com).
+If you have something to add or a comment to make you can always send me an <a rel="nofollow, noindex" href="email/">email</a>.
 
 ## Signal and WhatsApp
 
