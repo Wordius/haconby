@@ -1,6 +1,7 @@
 +++
 title = "About"
-date = 2025-07-22
+date = 2025-07-18
+updated = 2025-07-22
 page_template = "page.html"
 insert_anchor_links = "true"
 +++

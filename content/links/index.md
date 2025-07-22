@@ -1,6 +1,7 @@
 +++
 title = "Useful links"
 date = 2025-07-15
+updated = 2025-07-22
 page_template = "page.html"
 insert_anchor_links = "true"
 +++
