@@ -20,11 +20,10 @@
 
     <!-- FEEDS -->
       <link rel="alternate" href="/rss.xml" type="application/rss+xml">
-      <link rel="alternate" href="/atom.xml" type="application/atom+xml">
-
-      <!--{% if config.generate_feeds %}
+      
+      {% if config.generate_feeds %}
         <link rel="alternate" type={% if config.feed_filenames == "rss.xml" %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="RSS" href="{{ get_url(path=config.feed_filename) | safe }}">
-      {% endif %}-->
+      {% endif %}
       
     </head>
 
