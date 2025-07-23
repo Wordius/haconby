@@ -169,10 +169,11 @@ footer {
   border-top: 1px solid #777;
 }
 footer > p {
+  font-family: var(--font-family-serif);
   font-size: 1.4rem;
   letter-spacing: 1px;
   text-transform: uppercase;
-  color: #777;
+  color: #333;
 }
 
 @media all and (max-width: 1200px) {
