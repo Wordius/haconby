@@ -13,7 +13,7 @@ Below is a sample copy of an objection letter as well as a number of links to he
 Send the completed letter to National Grid. Remember to change all the relevant parts to suit your situation. Also included below is National Grid’s email address.
 
 - The **deadline** for submissions is 6 August 2025.
-- <a href="/docs/objection-letter.pdf" download>Download the objection letter</a> and add your details, as necessary, including your email address.
+- <a href="/docs/objection-letter.pdf" download>Download the objection letter</a>, add your details, as necessary, including your email address, and email or post it to ‘Freepost WM TO EL’ (no stamp necessary).
 - [Email it to National Grid](mailto:contact@g-w.nationalgrid.com). Simply click on the link and it will open a new email and insert National Grid’s email address in the ‘To’ section. Alternatively, their email address is ‘contact@g-w.nationalgrid.com’, minus the apostrophes.
 
 ## Other useful links
