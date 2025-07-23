@@ -1,6 +1,7 @@
 +++
 title = "Pylon route plans updated in bid to ease landscape concerns"
 date = 2025-07-18
+updated = 2025-07-22
 +++
 
 From [Lincolnshire Today](https://lincolnshiretoday.net/mag/pylon-route-plans-updated-in-bid-to-ease-landscape-concerns/):

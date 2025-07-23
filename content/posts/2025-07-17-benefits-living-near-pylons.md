@@ -1,6 +1,7 @@
 +++
 title = "The benefits of living near to pylons"
 date = 2025-07-17
+updated = 2025-07-22
 +++
 
 According to [EMF Inspections](https://emfinspections.co.uk/living-right-near-a-pylon-in-the-uk-what-you-need-to-know/), a provider of EMF (electromagnetic field) surveys, they are:

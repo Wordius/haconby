@@ -1,7 +1,7 @@
 +++
 title = "About"
 date = 2025-07-18
-updated = 2025-07-22
+updated = 2025-07-23
 page_template = "page.html"
 insert_anchor_links = "true"
 +++
@@ -20,4 +20,8 @@ Haconby & Stainfield’s Pylon Action Group is in the process of being set up. Y
 
 ## “But I don’t like Facebook”…
 
-For anyone who doesn’t ‘do Facebook’, there’s this site as well as a number of others, such as [Lincolnshire Against Needless Destruction](https://www.lincsland.co.uk).
+For anyone who doesn’t ‘do Facebook’, there’s this site as well as a number of others, such as [Lincolnshire Against Needless Destruction (LAND)](https://www.lincsland.co.uk).
+
+## Pronunciation
+
+Say it as you see it: ‘Nopy’ as in ‘copy’, or ‘Nopy’ as in ‘no-pie’. It all depends on how hungry you’re feeling at the time. 

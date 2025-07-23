@@ -1,6 +1,7 @@
 +++
 title = "GB Energy – don’t buy British"
 date = 2025-07-20
+updated = 2025-07-22
 +++
 
 The [BBC](https://www.bbc.co.uk/news/articles/c1lj21pjn72o):

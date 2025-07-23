@@ -7,7 +7,7 @@
     <!-- Enable responsiveness on mobile devices-->
     <!-- viewport-fit=cover is to support iPhone X rounded corners and notch in landscape-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, viewport-fit=cover">
-    <meta name="description" content="Why rural lives matter in Haconby, Lincolnshire">
+    <meta name="description" content="Say no to pylons in Haconby, in Lincolnshire, and beyond">
 
     <title>
         {% block title %}
@@ -19,7 +19,8 @@
       <link rel="stylesheet" href="/style.css">
 
     <!-- FEEDS -->
-        <link rel="alternate" href="/rss.xml" type="application/rss+xml">
+      <link rel="alternate" href="/rss.xml" type="application/rss+xml">
+      <link rel="alternate" href="/atom.xml" type="application/atom+xml">
 
       <!--{% if config.generate_feeds %}
         <link rel="alternate" type={% if config.feed_filenames == "rss.xml" %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="RSS" href="{{ get_url(path=config.feed_filename) | safe }}">
@@ -43,7 +44,7 @@
         <div class="footer_outer">
           {% include "partials/footer.html" %}
         </div><!-- footer_outer -->
-        
+
       </div><!--content-->
 
     </div><!--wrapper-->

@@ -1,6 +1,7 @@
 +++
 title = "A different approach"
 date = 2025-07-16
+updated = 2025-07-22
 +++
 
 This from [Nesta](https://www.nesta.org.uk/feature/future-signals-2024/the-problem-with-pylons/), which describes itself as the UK’s innovation agency for social good:

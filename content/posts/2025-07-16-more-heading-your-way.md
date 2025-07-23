@@ -1,6 +1,7 @@
 +++
 title = "Why more pylons could be heading your way"
 date = 2025-07-16
+updated = 2025-07-22
 +++
 
 The [BBC](https://www.bbc.co.uk/news/articles/c87d152ljvlo.amp):

@@ -1,6 +1,7 @@
 +++
 title = "The Essex village going to war with Keir Starmer over 160ft electric pylons"
 date = 2025-07-16
+updated = 2025-07-22
 +++
 
 From [The i Paper](https://inews.co.uk/news/essex-village-war-keir-starmer-electric-pylons-3417366):

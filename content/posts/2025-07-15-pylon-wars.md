@@ -1,6 +1,7 @@
 +++
 title = "‘Pylon wars’ show why big energy plans need locals on board"
 date = 2025-07-15
+updated = 2025-07-22
 +++
 
 Interesting piece by Simone Adam, Professor in the Department of Anthropology, director of Durham Energy Institute, Durham University, for [The Conversation](https://theconversation.com/pylon-wars-show-why-big-energy-plans-need-locals-on-board-258877):

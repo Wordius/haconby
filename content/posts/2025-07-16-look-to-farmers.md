@@ -1,6 +1,7 @@
 +++
 title = "Look to farmers for a solution"
 date = 2025-07-16
+updated = 2025-07-22
 +++
 
 This [University of Durham](https://www.durham.ac.uk/research/current/thought-leadership/2025/07/pylon-wars-show-why-big-energy-plans-need-locals-on-board/) had this to say:

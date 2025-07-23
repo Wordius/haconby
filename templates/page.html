@@ -6,8 +6,7 @@
 
   <h1 class="page-title">{{ page.title }}</h1>
   <h2 class="page-description">{{ page.description }}</h2>
-  <p class="page-date">{{ page.date | date(format="%d %B %Y") }}</p>
-  <p class="page-updated">Updated: {{ page.date | date(format="%d %B %Y") }}</p>
+  <p class="page-date">{{ page.date | date(format="%d %B %Y") }} &middot; Updated: {{ page.updated | date(format="%d %B %Y") }}</p>
 
   {{ page.content | safe }}
 
