@@ -24,4 +24,4 @@ For anyone who doesn’t ‘do Facebook’, there’s this site as well as a num
 
 ## Pronunciation
 
-Say it as you see it: ‘Nopy’ as in ‘copy’, or ‘Nopy’ as in ‘no-pie’. It all depends on how hungry you’re feeling at the time. 
+Say it as you see it: ‘Nopy’ as in ‘copy’, or ‘Nopy’ as in ‘no-pie’. Depends on how hungry you’re feeling at the time. 
