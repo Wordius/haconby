@@ -10,9 +10,9 @@ compile_sass = false
 
 # feeds
 
-generate_feeds = true
+# generate_feeds = true
 
-feed_filenames = ["rss.xml, atom.xml"]
+# feed_filenames = ["rss.xml, atom.xml"]
 
 # Whether to build a search index to be used later on by a JavaScript library
 
