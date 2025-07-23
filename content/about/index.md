@@ -18,10 +18,10 @@ Haconby & Stainfield’s Pylon Action Group is in the process of being set up. Y
 
 [Join the group](https://www.facebook.com/groups/1400754671211902).
 
-## “But I don’t like Facebook”…
+## “But I don’t like/have Facebook”…
 
 For anyone who doesn’t ‘do Facebook’, there’s this site as well as a number of others, such as [Lincolnshire Against Needless Destruction (LAND)](https://www.lincsland.co.uk).
 
 ## Pronunciation
 
-Say it as you see it: ‘Nopy’ as in ‘copy’, or ‘Nopy’ as in ‘no-pie’. Depends on how hungry you’re feeling at the time. 
+Say it as you see it: ‘Nopy’ as in ‘copy’, or ‘Nopy’ as in ‘no-pie’. Depends how hungry you’re feeling at the time. 
