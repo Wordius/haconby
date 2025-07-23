@@ -8,13 +8,13 @@ insert_anchor_links = "true"
 
 Below gives you some idea of how to object to National Grid’s plans.
 
-## Write a letter
+## Write a letter of concern
 
 Send your completed letter to National Grid. Remember to make all the points outlined below.
 
 - The **deadline** for submissions is 6 August 2025.
-- This can be an informal email, even simply a list of points (the corridor, local knowledge of wildlife, weak, narrow roads, etc. So long as it is reasoned (not just “I won't like it” or “It will spoil my view”. Email it to the address below, including your email and full postal address, or post it to ‘Freepost WM TO EL’ (no stamp necessary).
-- [Email it to National Grid](mailto:WMEL@nationalgrid.com) or respond online at [nationalgrid.com/WMEL](https://nationalgrid.com/WMEL). Simply click on the email link and it will open a new email and insert National Grid’s email address in the ‘To’ section. Alternatively, their email address is ‘WMEL@nationalgrid.com’, minus the apostrophes.
+- This can be an informal email, even simply a list of points (the corridor, local knowledge of wildlife, weak, narrow roads, etc. So long as it is reasoned (not simply “I won't like it” or “It will spoil my view”). Email it to the address below, including your email and full postal address, or post it to ‘Freepost WM TO EL’ (no stamp necessary).
+- [Email it to National Grid](mailto:WMEL@nationalgrid.com?subject=WMEL:%20Letter%20of%20concern) or respond online at [nationalgrid.com/WMEL](https://nationalgrid.com/WMEL). Simply click on the email link and it will open a new email and insert National Grid’s email address in the ‘To’ section. Alternatively, National Grid’s email address is ‘WMEL@nationalgrid.com’, minus the apostrophes, if you prefer to cut and paste.
 
 ## Other useful links
 
