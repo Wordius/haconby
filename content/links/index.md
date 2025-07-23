@@ -6,15 +6,15 @@ page_template = "page.html"
 insert_anchor_links = "true"
 +++
 
-Below is a sample copy of an objection letter as well as a number of links to help you to decide whether or not to object.
+Below gives you some idea of how to object to National Grid’s plans.
 
-## Objection letter
+## Write a letter
 
-Send the completed letter to National Grid. Remember to change all the relevant parts to suit your situation. Also included below is National Grid’s email address.
+Send your completed letter to National Grid. Remember to make all the points outlined below.
 
 - The **deadline** for submissions is 6 August 2025.
-- <a href="/docs/objection-letter.pdf" download>Download the objection letter</a>, add your details, as necessary, including your email address, and email to the address below or post it to ‘Freepost WM TO EL’ (no stamp necessary).
-- [Email it to National Grid](mailto:contact@g-w.nationalgrid.com). Simply click on the link and it will open a new email and insert National Grid’s email address in the ‘To’ section. Alternatively, their email address is ‘contact@g-w.nationalgrid.com’, minus the apostrophes.
+- This can be an informal email, even simply a list of points (the corridor, local knowledge of wildlife, weak, narrow roads, etc. So long as it is reasoned (not just “I won't like it” or “It will spoil my view”. Email it to the address below, including your email and full postal address, or post it to ‘Freepost WM TO EL’ (no stamp necessary).
+- [Email it to National Grid](mailto:WMEL@nationalgrid.com) or respond online at [nationalgrid.com/WMEL](https://nationalgrid.com/WMEL). Simply click on the email link and it will open a new email and insert National Grid’s email address in the ‘To’ section. Alternatively, their email address is ‘WMEL@nationalgrid.com’, minus the apostrophes.
 
 ## Other useful links
 

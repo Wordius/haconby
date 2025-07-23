@@ -6,7 +6,7 @@ page_template = "page.html"
 insert_anchor_links = "true"
 +++
 
-No to Pylons (Nopy) was set up to provide a source of news and information about the proposed plyons that affect Haconby and surrounding villages. Its aim is to help you oppose National Grid’s work on the Weston Marsh to East Leicestershire extension in particular, as it affects Haconby. This site also gives you access to files that you may use, such as the [Letter of Objection](/links), which is made available for download.
+No to Pylons (Nopy) was set up to provide a source of news and information about the proposed plyons that affect Haconby and surrounding villages. Its aim is to help you oppose National Grid’s work on the Weston Marsh to East Leicestershire extension in particular, as it affects Haconby. This site also gives you access to links that you may use. See the [links page](/links).
 
 Unless you happen to be a fully paid-up member of the Pylon Appreciation Society, the letter gives you somewhere to start.
 
