@@ -18,7 +18,9 @@ Send the completed letter to National Grid. Remember to change all the relevant 
 
 ## Other useful links
 
+- [Haconby & Stainfield Pylon Action Group](https://www.facebook.com/groups/1400754671211902) - A Facebook group set up to object to the Weston Marsh to East Leicestershire extension of National Grid’s ‘Great Grid Upgrade’
 - [Grimsby to Walpole](https://www.nationalgrid.com/the-great-grid-upgrade/grimsby-to-walpole) – if this is built, then Weston Marsh to East Leicestershire will be next on National Grid’s agenda. All we can hope is to have a say in the direction/route it takes.
 - [Weston Marsh to East Leicestershire](https://nationalgrid.com/wmel) – opens the proposed Weston Marsh to East Leicestershire section of National Grid’s so-called ‘Great Grid Upgrade’. This is the section that affects **Haconby** and surrounding villages.
+- [No Pylons Lincolnshire](https://www.facebook.com/groups/427539323082424) – Another Facebook group set up to object against the Grimbsy to Walpole extension.
 - [Lincolnshire Against Needless Destruction (LAND)](http://lincsland.co.uk).
 - [Viking Link](https://www.nationalgrid.com/national-grid-ventures/viking-link) – forms a continuous link between the UK and Denmark.
