@@ -13,8 +13,17 @@ Below gives you some idea of how to object to National Grid’s plans.
 Send your completed letter to National Grid. Remember to make all the points outlined below.
 
 - The **deadline** for submissions is 6 August 2025.
-- This can be an informal email, even simply a list of points (the corridor, local knowledge of wildlife, weak, narrow roads, etc. So long as it is reasoned (not simply “I won't like it” or “It will spoil my view”). Email it to the address below, including your email and full postal address, or post it to ‘Freepost WM TO EL’ (no stamp necessary).
-- [Email it to National Grid](mailto:ContactWMEL@nationalgrid.com?subject=WMEL:%20Letter%20of%20concern) or respond online at [nationalgrid.com/WMEL](https://nationalgrid.com/WMEL). Simply click on the email link and it will open a new email and insert National Grid’s email address in the ‘To’ section. Alternatively, National Grid’s email is ‘WMEL@nationalgrid.com’, minus the apostrophes, if you prefer to cut and paste.
+- This can be an informal email, even simply a list of points:
+    - loss of prime farmland
+    - local knowledge of wildlife
+    - weak, narrow roads unsuited to construction vehicles
+    - endangered species (Great Crested newts, barn owls, bats, etc.)
+    - the largest population of Fallow deer in the UK (Dunsby Woods)
+    - migrating birds flying into the wires
+    - effect on drainage
+    - the documented dangers of EMF
+    - As long as it is reasoned, not simply “I won't like it” or “It will spoil my view”.
+- [Email it to National Grid](mailto:ContactWMEL@nationalgrid.com?subject=WMEL:%20Letter%20of%20concern), including your email and full postal address, post it to ‘Freepost WM TO EL’ (no stamp necessary) or respond online at [nationalgrid.com/WMEL](https://nationalgrid.com/WMEL). The link open a new email and insert National Grid’s email address in the ‘To’ section. Alternatively, National Grid’s email is ‘ContactWMEL@nationalgrid.com’, minus the apostrophes, if you prefer to cut and paste.
 
 ## Other useful links
 

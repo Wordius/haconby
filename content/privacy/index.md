@@ -8,9 +8,9 @@ No legalese here. I am not a solicitor (read lawyer), nor am I involved in the l
 
 ## Your data
 
-I tried to avoid using any Javascript at all, but this site serves up one piece of JS from Piwik Pro. You can read more about their privacy policy over [here](https://help.piwik.pro/support/privacy/). All I want to know is roughly how many people look at this website and what did they use to access it, because that interests me.
+I tried to avoid using any Javascript at all, but this site serves up one piece of JS from Piwik Pro. You can read more about their privacy policy over [here](https://help.piwik.pro/support/privacy/). All I want to know is roughly how many people look at this website and what they used to access it, because that interests me.
 
-There is nothing else. There are no secret police nor are there any spies lurking in the shadows, though you can never be too careful these days. 
+There is nothing else. There are no secret police; nor are there any spies lurking in the shadows, though you can never be too careful these days. 
 
 ## Web fonts
 
