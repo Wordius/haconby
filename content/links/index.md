@@ -14,14 +14,13 @@ Send your completed letter to National Grid. Remember to make all the points out
 
 - The **deadline** for submissions is 6 August 2025.
 - This can be an informal email, even simply a list of points:
-    - loss of prime farmland
-    - local knowledge of wildlife
-    - weak, narrow roads unsuited to construction vehicles
-    - endangered species (Great Crested newts, barn owls, bats, etc.)
-    - the largest population of Fallow deer in the UK (Dunsby Woods)
-    - migrating birds flying into the wires
-    - effect on drainage
-    - the documented dangers of EMF
+    - Loss of prime farmland.
+    - Local knowledge of wildlife.
+    - Endangered species (Great Crested newts, barn owls, bats, etc. Also worth mentioning that Dunsby Woods is home to the largest population of Fallow deer in the UK.
+    - Weak, narrow roads unsuited to construction vehicles.
+    - Migrating birds flying into the wires.
+    - Effect on drainage.
+    - The documented dangers of EMF.
     - As long as it is reasoned, not simply “I won't like it” or “It will spoil my view”.
 - [Email it to National Grid](mailto:ContactWMEL@nationalgrid.com?subject=WMEL:%20Letter%20of%20concern), including your email and full postal address, post it to ‘Freepost WM TO EL’ (no stamp necessary) or respond online at [nationalgrid.com/WMEL](https://nationalgrid.com/WMEL). The link open a new email and insert National Grid’s email address in the ‘To’ section. Alternatively, National Grid’s email is ‘ContactWMEL@nationalgrid.com’, minus the apostrophes, if you prefer to cut and paste.
 
