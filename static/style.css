@@ -42,7 +42,14 @@ aside a {
     margin-top: 2rem;
 }
 
+/* Lists */
+
+ul li ul {
+  padding: 0.25rem 0 0.25rem 1.5rem;
+}
+
 /* Aside nav */
+
 .nav {
   margin-top: 3rem;
 }
