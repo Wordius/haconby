@@ -10,9 +10,9 @@ Below gives you some idea of how to object to National Grid’s plans.
 
 ## Write a letter of concern
 
-Send your completed letter to National Grid. Remember to make all the points outlined below.
+Send your completed letter to National Grid. Remember to make all, or at least some of, the points outlined below.
 
-- The **deadline** for submissions is 6 August 2025.
+- The **deadline** for submissions is **6 August 2025**.
 - This can be an informal email, even simply a list of points:
     - Loss of prime farmland.
     - Local knowledge of wildlife.
