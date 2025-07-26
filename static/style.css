@@ -183,7 +183,29 @@ footer > p {
   color: #333;
 }
 
+/* Screen size: tablet */
+
 @media all and (max-width: 1200px) {
+  .about, .nav {
+    text-align: center;
+}
+  .nav-item {
+    display: inline-block;
+    padding-right: 1rem;
+    padding-top: 0;
+    margin-bottom: 0;
+    border-bottom: none;
+  }
+  .nav li:last-child {
+    padding-right: 0;
+  }
+}
+/* Screen size: phone */
+
+@media all and (max-width: 768px) {
+  .about, .nav {
+      text-align: center;
+  }
   .about h1 {
   font-size: 6rem;
   line-height: 1.2;

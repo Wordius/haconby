@@ -5,8 +5,18 @@
 <div class="page">
 
   <h1 class="page-title">{{ page.title }}</h1>
-  <h2 class="page-description">{{ page.description }}</h2>
-  <p class="page-date">{{ page.date | date(format="%d %B %Y") }} &middot; Updated: {{ page.updated | date(format="%d %B %Y") }}</p>
+
+  {% if page.description %}
+    <h2 class="page-description">{{ page.description }}</h2>
+  {% endif %}
+
+  {% if page.date %}
+    <p class="page-date">{{ page.date | date(format="%d %B %Y") }}
+  {% if page.updated %}
+    &middot; Updated: {{ page.updated | date(format="%d %B %Y") }}
+  {% endif %}
+    </p>
+  {% endif %}
 
   {{ page.content | safe }}
 
