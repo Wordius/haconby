@@ -16,4 +16,4 @@ The [original documentation](https://www.nationalgrid.com/document/561116/downlo
 
 But if you look through the pylon heights planned a year later, not a single pylon is exactly 50 metres tall. Instead they measure 40+ (a minor concession for the Lincolnshire Wolds AONB), 50+, 60+, 70+ metres tall. There’s even a couple that are 110 metres high.
 
-You should include this in your objection letters or emails to National Grid.
+You should include this in your objection letters or emails to National Grid, which are due by 6 August.
