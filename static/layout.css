@@ -24,7 +24,6 @@
     background-color: #ac4142; /* #6a9fb5 */
 }
 #content {
-    font-size: 1rem;
     flex-basis: 0;
     flex-grow: 999;
     min-width: 66%;
