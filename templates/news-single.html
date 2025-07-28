@@ -9,13 +9,13 @@
   <h2 class="post-desc">{{ page.description }}</h2>
    <div class="post-tags">   
     {% if page.taxonomies.tags %}
-    tags: 
-    {% for tag in page.taxonomies.tags %}
-    <a class="post-tag" href='{{ get_taxonomy_url(kind="tags", name=tag) | safe }}'>{{ tag }}</a>
-    {%- if not loop.last %}
+      tags: 
+      {% for tag in page.taxonomies.tags %}
+        <a class="post-tag" href='{{ get_taxonomy_url(kind="tags", name=tag) | safe }}'>{{ tag }}</a>
+      {%- if not loop.last %}
       {{ ", " | safe }}
-    {% endif -%}
-    {% endfor %}
+      {% endif -%}
+      {% endfor %}
     {% endif %}
   </div> 
 

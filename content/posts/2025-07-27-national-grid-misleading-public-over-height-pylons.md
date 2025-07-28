@@ -1,5 +1,5 @@
 +++
-title = "National Grid is telling tall stories over pylon heights"
+title = "National Grid misleading the public over pylon heights"
 date = 2025-07-27
 updated = "2025-07-27"
 +++
