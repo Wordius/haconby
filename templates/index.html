@@ -8,7 +8,7 @@
 
   <ul class="postlist">
   {% set post_section = get_section(path="news/_index.md") %}
-  {% set limit = 200 %}
+  {% set limit = 3 %}
     {% for post in post_section.pages %}
       {% if loop.index <= limit %}
     <li class="postlist-item">
@@ -27,6 +27,6 @@
   {% endfor %}
   </ul>
 
-  <!--<p><a href="/news/">More news</a></p>-->
+  <p><a href="/news">> More news</a></p>
 
 {% endblock content %}
