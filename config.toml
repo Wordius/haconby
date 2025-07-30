@@ -35,7 +35,7 @@ insert_anchor_links = "true"
 # Put all your custom variables here
 
 hyde_links = [
-    {url = "/", name = "News"},
+    {url = "/news", name = "News"},
     {url = "/about", name = "About"},
     {url = "/contact", name = "Contact"},
     {url = "/links", name = "Links"},

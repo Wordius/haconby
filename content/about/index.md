@@ -10,7 +10,9 @@ No to Pylons (Nopy) was set up to provide a source of news and information about
 
 Unless you happen to be a fully paid-up member of the Pylon Appreciation Society, the letter gives you somewhere to start.
 
-As well as having this main goal, Nopy will look at the wider aspects of plans for Lincolnshire, including wind farms and solar energy projects. 
+As well as having this main goal, Nopy will look at the wider aspects of plans for Lincolnshire, including wind farms and solar energy projects.
+
+In the interests of transparency, this site also has links to all the documentation provided by National Grid. See the [WMEL docs](/docs) page for more information.
 
 ## Facebook group
 

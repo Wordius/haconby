@@ -4,8 +4,10 @@
   <img class="img" src="/img/haconby-1979-72.webp" alt="Haconby, circa 1979"/>
   <p class="caption">National Grid’s proposed route for the Weston Marsh to East Leicestershire extension will ruin the tranquillity we have come to expect from living in our village (Haconby, circa 1979)</p>
 
+  <!--<h1>Latest News</h1>-->
+
   <ul class="postlist">
-  {% set post_section = get_section(path="posts/_index.md") %}
+  {% set post_section = get_section(path="news/_index.md") %}
   {% set limit = 200 %}
     {% for post in post_section.pages %}
       {% if loop.index <= limit %}
@@ -24,5 +26,7 @@
   {% endif %}
   {% endfor %}
   </ul>
+
+  <!--<p><a href="/news/">More news</a></p>-->
 
 {% endblock content %}

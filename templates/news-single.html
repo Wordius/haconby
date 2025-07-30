@@ -1,17 +1,25 @@
 {% extends "base.html" %}
 
 {% block content %}
-<article class="post">
-  <h1 class="post-title">
-    {{ page.title }}
-  </h1>
-  <p class="post-date">{{ page.date | date(format="%d %B %Y") }}</p>
-  <h2 class="post-desc">{{ page.description }}</h2>
-   <div class="post-tags">   
+<article class="page">
+
+  <h1 class="page-title">{{ page.title }}</h1>
+  {% if page.description %}
+    <h2 class="page-description">{{ page.description }}</h2>
+  {% endif %}
+  {% if page.date %}
+    <p class="page-date">{{ page.date | date(format="%d %B %Y") }}
+  {% if page.updated %}
+    &middot; Updated: {{ page.updated | date(format="%d %B %Y") }}
+  {% endif %}
+    </p>
+  {% endif %}
+  
+  <div class="page-tags">   
     {% if page.taxonomies.tags %}
       tags: 
       {% for tag in page.taxonomies.tags %}
-        <a class="post-tag" href='{{ get_taxonomy_url(kind="tags", name=tag) | safe }}'>{{ tag }}</a>
+        <a class="page-tag" href='{{ get_taxonomy_url(kind="tags", name=tag) | safe }}'>{{ tag }}</a>
       {%- if not loop.last %}
       {{ ", " | safe }}
       {% endif -%}
@@ -19,19 +27,17 @@
     {% endif %}
   </div> 
 
-  <div class="post-content">
     {{ page.content | safe }}
-  </div>
 
-</article>
+</article><!-- page -->
 
  {% if page.lower or page.higher %}
-  <div class="post-nav">
+  <div class="page-nav">
     {% if page.lower %}
-      <p><span class="post-nav-dir">Previous: </span><a class="previous" href="{{ page.lower.permalink }}">‹ {{ page.lower.title }}</a></p>
+      <p><span class="page-nav-dir">Previous: </span><a class="previous" href="{{ page.lower.permalink }}">‹ {{ page.lower.title }}</a></p>
     {% endif %}
     {% if page.higher %}
-      <p><span class="post-nav-dir">Next: </span><a class="next" href="{{ page.higher.permalink }}">{{ page.higher.title }} ›</a></p>
+      <p><span class="page-nav-dir">Next: </span><a class="next" href="{{ page.higher.permalink }}">{{ page.higher.title }} ›</a></p>
     {% endif %}
   </div>
 {% endif %}

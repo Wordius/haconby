@@ -144,12 +144,21 @@ p {
   line-height: 1.7;
   color: #333;
 }
+.page p:last-child {
+  margin-bottom: 3rem;
+}
   p.page-date {
     font-size: 1.6rem;
     letter-spacing: 1px;
     text-transform: uppercase;
     margin-bottom: 2rem;
     color: #777;
+  }
+  .page-nav {
+    margin-top: 3rem;
+  }
+  .page-nav-dir {
+    font-weight: 700;
   }
 /*p.page-updated {
   font-size: 1.6rem;
@@ -171,6 +180,9 @@ blockquote > p, blockquote > ul {
   line-height: 1.7;
   margin: 1rem;
   color: #333;
+}
+.paginator {
+  display: block;
 }
 footer {
   text-align: center;

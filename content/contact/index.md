@@ -8,7 +8,7 @@ insert_anchor_links = "true"
 
 ## Email
 
-If you have something to add or a comment to make you can always send me an [email](mailto:jeffpporter@icloud.com?subject=No%20to%20pylons).
+If you have something to add or a comment to make you can always send me an [email](mailto:hello@nopy.co.uk?subject=No%20to%20pylons).
 
 ## Signal and WhatsApp
 
